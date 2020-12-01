@@ -41,7 +41,7 @@ test('serve with router', async () => {
       expect(await helpers.hasClass('a[href="#/about"]', 'router-link-exact-active')).toBe(false)
 
       await page.click('a[href="#/about"]')
-      expect(await helpers.getText('h1')).toMatch(`This is an about page`)
+      expect(await helpers.getText('h1')).toMatch(`This is an about page hyq`)
       expect(await helpers.hasElement('#nav')).toBe(true)
       expect(await helpers.hasClass('a[href="#/"]', 'router-link-exact-active')).toBe(false)
       expect(await helpers.hasClass('a[href="#/about"]', 'router-link-exact-active')).toBe(true)

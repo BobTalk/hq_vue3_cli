@@ -1,6 +1,6 @@
 {
   "name": "hq_v3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "workspaces": [
     "packages/@vue/*",
     "packages/test/*",
