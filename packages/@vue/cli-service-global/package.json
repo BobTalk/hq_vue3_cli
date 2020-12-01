@@ -32,6 +32,6 @@
     "eslint-plugin-vue": "^4.7.1",
     "resolve": "^1.10.0",
     "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.12"
   }
 }

@@ -12,7 +12,7 @@ module.exports = (api, options) => {
       'vue': '^2.6.10'
     },
     devDependencies: {
-      'vue-template-compiler': '^2.6.10'
+      'vue-template-compiler': '^2.6.12'
     },
     'postcss': {
       'plugins': {

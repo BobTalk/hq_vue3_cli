@@ -35,7 +35,7 @@ module.exports = function createTestProject (name, preset, cwd, initGit = true) 
     [command, ...args] = command.split(/\s+/)
     if (command === 'vue-cli-service') {
       // appveyor has problem with paths sometimes
-      command = require.resolve('@vue/cli-service/bin/vue-cli-service')
+      command = require.resolve('../../@vue/cli-service/bin/vue-cli-service')
     }
     return execa(command, args, { cwd: projectRoot })
   }

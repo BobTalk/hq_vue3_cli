@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <%_ if (!rootOptions.bare) { _%>
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to Your Vue.js App HYQ"/>
     <%_ } else { _%>
     <h1>Welcome to Your Vue.js App dweweweHYQ</h1>
     <%_ } _%>

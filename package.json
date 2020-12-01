@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "hq_v3",
+  "version": "1.0.0",
   "workspaces": [
     "packages/@vue/*",
     "packages/test/*",
@@ -79,7 +80,7 @@
     "babel-core": "7.0.0-bridge.0",
     "puppeteer": "1.11.0",
     "vue": "^2.6.10",
-    "vue-template-compiler": "^2.6.10",
+    "vue-template-compiler": "^2.6.12",
     "vue-server-renderer": "^2.6.10"
   }
 }

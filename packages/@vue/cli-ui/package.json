@@ -91,7 +91,7 @@
     "vue-meta": "^1.6.0",
     "vue-observe-visibility": "^0.4.1",
     "vue-router": "^3.0.3",
-    "vue-template-compiler": "^2.6.10",
+    "vue-template-compiler": "^2.6.12",
     "vue-timeago": "^5.1.2",
     "vue-virtual-scroller": "^1.0.0-rc.2",
     "xterm": "^3.12.0"
