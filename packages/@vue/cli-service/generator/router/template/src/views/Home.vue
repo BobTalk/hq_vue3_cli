@@ -4,7 +4,7 @@
     <%_ if (!rootOptions.bare) { _%>
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <%_ } else { _%>
-    <h1>Welcome to Your Vue.js App</h1>
+    <h1>Welcome to Your Vue.js App dweweweHYQ</h1>
     <%_ } _%>
   </div>
 </template>
